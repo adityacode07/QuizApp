@@ -1,0 +1,76 @@
+/* src/components/QuizGenerator.css */
+.quiz-generator {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.quiz-generator h1 {
+    text-align: center;
+}
+
+.quiz-generator div {
+    margin-bottom: 10px;
+}
+
+.quiz-generator label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.quiz-generator input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.quiz-generator button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.quiz-display {
+    margin-top: 20px;
+}
+
+.quiz-question {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.quiz-question h3 {
+    margin: 0;
+}
+
+.quiz-question ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.quiz-question li {
+    padding: 5px 0;
+}
+
+.results {
+    margin-top: 20px;
+}
+
+.result {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}

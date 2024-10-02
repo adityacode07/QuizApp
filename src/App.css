@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(141deg, rgba(26,26,36,1) 0%, rgba(105,109,137,1) 100%);
+  font-family: Arial, sans-serif; /* Optional: Add a font-family for a consistent look */
+  
+}
